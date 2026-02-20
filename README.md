@@ -15,7 +15,7 @@
      /_________|_________\
          Raspberry Pie 🍰
 📌 Popis projektu
-
+dtzftfjfughgv
 Tento projekt je jednoduchá meteostanice vytvořená pro platformu Raspberry Pi Pico W.
 Zařízení se připojí k WiFi síti, zjistí svou aktuální geografickou polohu pomocí veřejné IP adresy a každých 10 minut stáhne aktuální počasí z API OpenWeatherMap.
 
