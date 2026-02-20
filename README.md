@@ -1,3 +1,5 @@
+
+# I am hacking
 🌤️ Weather Station – Raspberry Pi Pico W - Piko z ústí na labem
         .-""""-.
        /        \
