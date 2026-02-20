@@ -1,4 +1,4 @@
-🌤️ Weather Station – Raspberry Pi Pico W
+🌤️ Weather Station – Raspberry Pi Pico W - Piko z ústí na labem
         .-""""-.
        /        \
       /_        _\
