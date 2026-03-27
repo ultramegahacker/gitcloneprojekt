@@ -13,7 +13,7 @@
        /      |      \
       /        |        \
      /_________|_________\
-         Raspberry Pie 🍰
+         Raspberry Pie 🍰...........................
 📌 Popis projektu
 
 Tento projekt je jednoduchá meteostanice vytvořená pro platformu Raspberry Pi Pico W.
